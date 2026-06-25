@@ -1,0 +1,7 @@
+git clone https://github.com/malathi-maragoni/ai-resume-analyser.git
+
+cd ai-resume-analyser
+
+pip install -r requirements.txt
+
+python -m spacy download en_core_web_sm
